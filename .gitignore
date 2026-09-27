@@ -1,0 +1,10 @@
+.venv/
+.runtime/
+__pycache__/
+.ipynb_checkpoints/
+data/
+cache/
+models/
+outputs/
+*.parquet
+answer.csv

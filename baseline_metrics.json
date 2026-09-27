@@ -1,0 +1,10 @@
+{
+  "method": "TF-IDF baseline",
+  "validation_queries": 500,
+  "eligible_groups": 18436,
+  "total_groups": 354463,
+  "recall_at_50": 0.22652380952380952,
+  "benchmark_queries": 2452,
+  "empty_answers": 18,
+  "elapsed_seconds": 122.2
+}
