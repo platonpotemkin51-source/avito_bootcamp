@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "items": 600,
+  "queries": 14,
+  "checks": [
+    "text cleaning",
+    "empty and tied scores",
+    "candidate retrieval",
+    "18 features",
+    "training examples and weights",
+    "all prediction methods",
+    "Recall",
+    "group splits and sampling",
+    "empty training candidate list handled"
+  ],
+  "full_experiment_rerun": false
+}

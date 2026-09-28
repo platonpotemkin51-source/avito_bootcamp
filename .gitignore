@@ -8,3 +8,4 @@ models/
 outputs/
 *.parquet
 answer.csv
+!/answer.csv
