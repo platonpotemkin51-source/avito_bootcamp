@@ -1,0 +1,7 @@
+method,dev_recall_at_50
+gradient_boosting,0.788
+hybrid_2.0,0.756
+hybrid_1.0,0.6906666666666667
+hybrid_0.5,0.549
+word_tfidf,0.294
+hybrid_0.0,0.293

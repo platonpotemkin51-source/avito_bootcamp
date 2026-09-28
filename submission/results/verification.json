@@ -1,0 +1,7 @@
+{
+  "answer_sha256": "b4f51eb2c37cf1b573e739e069413c5b45a41a2bdf8ff0e9e96d6dd2c06cf795",
+  "queries": 2452,
+  "candidates_per_query": 50,
+  "executable_code_unchanged_by_cleanup": true,
+  "full_training_rerun": false
+}

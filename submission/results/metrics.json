@@ -1,0 +1,47 @@
+{
+  "seed": 42,
+  "train_queries": 2500,
+  "dev_queries": 500,
+  "test_queries": 500,
+  "eligible_queries": 18436,
+  "train_pairs": 176650,
+  "skipped_train_queries": 320,
+  "chosen_method": "gradient_boosting",
+  "dev_results": [
+    {
+      "method": "word_tfidf",
+      "dev_recall_at_50": 0.294
+    },
+    {
+      "method": "hybrid_0.0",
+      "dev_recall_at_50": 0.293
+    },
+    {
+      "method": "hybrid_0.5",
+      "dev_recall_at_50": 0.549
+    },
+    {
+      "method": "hybrid_1.0",
+      "dev_recall_at_50": 0.6906666666666667
+    },
+    {
+      "method": "hybrid_2.0",
+      "dev_recall_at_50": 0.756
+    },
+    {
+      "method": "gradient_boosting",
+      "dev_recall_at_50": 0.788
+    }
+  ],
+  "dev_candidate_recall": 0.865,
+  "test_baseline_recall_at_50": 0.2595,
+  "test_selected_recall_at_50": 0.7445,
+  "test_candidate_recall": 0.83,
+  "test_difference_95_interval": [
+    0.434071845516591,
+    0.5362070788430559
+  ],
+  "benchmark_queries": 2452,
+  "empty_answers": 0,
+  "elapsed_seconds": 2416.3
+}
